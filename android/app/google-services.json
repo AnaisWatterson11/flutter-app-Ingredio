@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598573520763",
+    "project_id": "myapp-yefa",
+    "storage_bucket": "myapp-yefa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598573520763:android:4c7858a17f13da913c0fde",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoNSjA_W8n5Rglslz4cTW-BNmyFqgI1Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

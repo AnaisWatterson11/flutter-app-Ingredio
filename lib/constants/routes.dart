@@ -1,0 +1,9 @@
+const loginRoute='/login/';
+const registerRoute='/register/';
+const mainRoute='/notes/';
+const verifyEmailRoute='/verify-email/';
+const gestionProfileRoute='/profile/';
+const recipeFinderRoute='/finder/';
+const favorisRoute ='/favoris/';
+const aproposRoute='/apropos/';
+const chatRoute='/chat';

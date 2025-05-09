@@ -103,7 +103,7 @@ class _MainUiState extends State<MainUi> {
                             Card(
                               shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
                               elevation: 6,
-                              color: Colors.white,
+                              color: const Color.fromARGB(255, 241, 233, 233),
                               child: Padding(
                                 padding: const EdgeInsets.all(24.0),
                                 child: Column(
@@ -119,7 +119,7 @@ class _MainUiState extends State<MainUi> {
                                     ),
                                     const SizedBox(height: 20),
                                     const Text(
-                                      'Maison de +5500 recettes 🍽️\nLaissez-vous inspirer !',
+                                      'Ingredio, maison de +5000 recettes🍽️\nLaissez-vous inspirer !',
                                       style: TextStyle(
                                         fontSize: 18,
                                         color: Color.fromARGB(255, 220, 118, 22),
